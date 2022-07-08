@@ -1,0 +1,7 @@
+1) pandas (pip intall mandas) in terminal
+2) numpy (pip intall numpy) in terminal
+3) markdown pdf
+4) markdown lint
+5) mark down All in one
+6) markdown shortcut
+7) VS code PDF

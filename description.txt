@@ -1,0 +1,60 @@
+Data  visulization
+"code to graph"
+"Mind to page and plots"
+///////////////////////////////
+What is grammmer of graphic?
+Major part
+-Mapping (Data)
+-Aesthetic(color, Shape, Size)
+-Geometric (Objectline, Bar, Points, Box, Map)
+Example of Brithday 
+Baloons are needle-MAPPING
+Baloon color are aesthetic
+X-axix and Y-axix Zero point are origin
+
+SCIENTIFIC COMPUTING:
+Pandas(Data struture & tools 2D dataframes)
+Numpy(Array & Matrices)
+Scipy(optimization and Solving Dufferent equation)
+
+DATA VISUALIZATION:
+Matplotlib
+->Plot, Graph and Figures
+Seaborn
+->heat Maps, Time series and other plotes.
+
+MACHINE LEARNING AlGORITHUM DEVELPMENT:
+Scikit-learn
+->Machines learing: regression classification clustering analysis and so on....
+
+Statmodels
+-> Explore data, estimation of statistical models and perfrom statistical analysis
+
+Variable Types Matters
+
+-> Catagorical Variable 
+-count (plot type)
+-Male vs felmale
+-True or False
+-O vs 1
+-Yes vs No
+
+-> Continuious Variable
+-Scatter Plot
+-Statistical Properties(mean and their comparision)
+
+Link: Chart suggestion-A though-starter from the exterme presentation Method Andrew Abela
+
+=>pip install seaborn
+=>pip install pandas
+
+COMMAND PROM
+NO Destop:
+solution-> dir //its is used for checking folder
+CD\Destop\Pythan>cd  // path of folder which are in Destop
+mkdir pythan_ka_chilla   //make a folder
+
+tab mean auto complete
+
+
+
